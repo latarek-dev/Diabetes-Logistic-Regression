@@ -1,5 +1,7 @@
 # Diabetes Logistic Regression
 
+## Proszę zajrzeć do raportu z analizą, opisem i kodem: PZ_projekt.ipynb !!
+
 ## Opis projektu
 Projekt analizuje dane z zestawu **Pima Indians Diabetes Dataset** i buduje model klasyfikacji wykorzystujący regresją logistyczną wykrywający cukrzycę na podstawie cech medycznych pacjentów. Dane pochodzą z **National Institute of Diabetes and Digestive and Kidney Diseases** i zawierają informacje o pomiarach fizycznych oraz wynikach badań laboratoryjnych.
 
